@@ -20,3 +20,9 @@ In the search box, type in your favorite artist or band and click "Search". Eigh
 - [tastedive](https://tastedive.com/read/api)
 - [iTunes](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
 - [audioDB](https://www.theaudiodb.com/api_guide.php)
+
+## Authors:
+- Parth Parmar
+- Jerrica VanAlstyne
+- Peter Connelly
+- Ceara Owre
